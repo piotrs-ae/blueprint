@@ -1,0 +1,115 @@
+intent_localised,keyword_template,language,pma,market,account,account_id,match_type,_etl_row_unique_key,_etl_inserted_at,keyword
+study,(intent)\\S(subject)\\S(medium),eng,action,hk-sg,ASIA,854-934-9749,xx,4331297577055314746,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(medium)"",
+  """"
+]"
+Preply,(intent)\\S(subject),eng,brand,us,EN,690-902-8442,xx,-29671725934329807,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  """"
+]"
+talk,(intent)\\S(subject)\\S(medium),eng,action,ph,ASIA,854-934-9749,xx,9201335169169362556,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(medium)"",
+  """"
+]"
+conversation,(subject)\\S(intent)\\S(medium),eng,action,hk-sg,ASIA,854-934-9749,bm,2908949485088985072,1692617295798000,"[
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(medium)"",
+  """"
+]"
+chat,(intent)\\S(subject)\\S(location),eng,method,chl-ecu-pan-pri,ES,795-735-5419,xx,-4631560260501438341,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(location)"",
+  """"
+]"
+Direct,(subject)\\S(intent),eng,competitor,tr,AR,673-471-4088,xx,-2217651689263868315,1692617295798000,"[
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(intent)"",
+  """"
+]"
+SelfStudy,(intent)\\S(subject)\\S(medium),eng,competitor,in,ASIA,854-934-9749,xx,-7429490853670906440,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(medium)"",
+  """"
+]"
+Direct,(subject)\\S(intent),eng,competitor,no,NORD CENTRAL EU,887-560-8605,xx,3543157222117011409,1692617295798000,"[
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(intent)"",
+  """"
+]"
+study,(subject)\\S(intent)\\S(location),eng,action,it,ASIA,854-934-9749,bm,1440632562258207665,1692617295798000,"[
+  """",
+  ""(subject)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(location)"",
+  """"
+]"
+Direct,(intent)\\S(subject),eng,competitor,sa,AR,673-471-4088,bm,1386345964303326974,1692617295798000,"[
+  """",
+  ""(intent)"",
+  ""\\"",
+  ""\\S"",
+  """",
+  ""(subject)"",
+  """"
+]"
